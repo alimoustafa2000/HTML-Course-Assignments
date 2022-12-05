@@ -9,14 +9,14 @@ This repo is for Assignments of "HTML" Course, Elzero web school.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-33 Assignment-blue">
 
-![22%](https://progress-bar.dev/22/?title=Done)
+![44%](https://progress-bar.dev/44/?title=Done)
 <br />
 
 ## Assignments List
 - [x] Elements And Comments
 - [x] Heading And Attributes
-- [ ] Link, Image, List
-- [ ] Table, Div
+- [x] Link, Image, List
+- [x] Table, Div
 - [ ] Audio, Video
 - [ ] Form Part One
 - [ ] Form Part Two
