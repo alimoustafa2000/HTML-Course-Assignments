@@ -9,7 +9,7 @@ This repo is for Assignments of "HTML" Course, Elzero web school.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-33 Assignment-blue">
 
-![44%](https://progress-bar.dev/44/?title=Done)
+![55%](https://progress-bar.dev/55/?title=Done)
 <br />
 
 ## Assignments List
@@ -17,7 +17,7 @@ This repo is for Assignments of "HTML" Course, Elzero web school.
 - [x] Heading And Attributes
 - [x] Link, Image, List
 - [x] Table, Div
-- [ ] Audio, Video
+- [x] Audio, Video
 - [ ] Form Part One
 - [ ] Form Part Two
 - [ ] Form Part Three
