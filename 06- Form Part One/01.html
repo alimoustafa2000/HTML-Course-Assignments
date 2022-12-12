@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Form Task One</title>
+        <meta name="description" content="This Is Form Task One"/>
+    </head>
+    <body>
+        <center><h1>Sign up</h1></center>
+        <form action="test.py" method="POST">
+            <div>
+                <label>Username</label>
+                <input type="text" required placeholder="required" name="Username">
+            </div>
+            <hr>
+            <div>
+                <label>Email</label>
+                <input type="email" required placeholder="required" name="Email">
+            </div>
+            <hr>
+            <div>
+                <label>Password</label>
+                <input type="password" placeholder="Password" name="Password">
+            </div>
+            <hr>
+            <div>
+                <label>Mobile</label>
+                <input type="tel" placeholder="(ex. +1-202-687-1400)" name="Mobile">
+            </div>
+            <hr>
+            <div>
+                <label>Subject</label>
+                <input type="text" placeholder="Subject" name="Subject">
+            </div>
+            <hr>
+            <div>
+                <input type="hidden" name="User ID" value="181278">
+            </div>
+            <div>
+                <center>
+                    <input type="reset" value="Empty Form">
+                    <input type="submit" value="Send Data">
+                </center>
+            </div>
+        </form>
+    </body>
+</html>
