@@ -26,7 +26,7 @@ This repo is for Assignments of "HTML" Course, Elzero web school.
 ---
 
 ## Course Link
-[Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+[Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
 ## Assignments Link
-[Link](https://elzero.org/category/assignments/html-assignments/)
+[Assignments](https://elzero.org/category/assignments/html-assignments/)
