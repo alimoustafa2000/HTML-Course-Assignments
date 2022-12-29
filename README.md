@@ -7,7 +7,7 @@ This repo is for Assignments of "HTML" Course From Elzero Academy.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Lessons%20For%20This%20Course-37 Lesson-orange">
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-33 Assignment-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-33 Assignments-blue">
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br>
