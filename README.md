@@ -1,5 +1,5 @@
 # HTML-Course-Assignments
-This repo is for Assignments of "HTML" Course From Elzero web school.
+This repo is for Assignments of "HTML" Course From Elzero Academy.
 
 ---
 
